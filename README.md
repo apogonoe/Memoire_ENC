@@ -1,3 +1,2 @@
 # Memoire_ENC
-
-This repository contains on the one hand the texts of Pierre de la Vigne, Nicolas de Rocca and Thomas de Capoue, and on the other hand the codes used to extract and exploit them.
+Se trouvent dans ce repository les textes comparés au cours de ce mémoire ainsi que les codes employés pour y parvenir. 
